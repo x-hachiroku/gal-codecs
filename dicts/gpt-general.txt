@@ -1,12 +1,10 @@
+タイトル	标题	Title of the chapter
 選択肢	选项	Text options for player
 クリック待ち	点击以继续
 
 ごきげんよう	贵安
 ちびっ子	小不点
 昇降口	大门
-電マ	按摩棒
-我慢汁	忍耐汁
-
 ちゃん	酱
 
 JS	JS
@@ -14,6 +12,8 @@ JC	JC
 JK	JK
 J〇	J〇
 
+電マ	按摩棒
+我慢汁	忍耐汁
 雑魚	杂鱼
 マゾ	抖M
 マゾヒズム	抖M
